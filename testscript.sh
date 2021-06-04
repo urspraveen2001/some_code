@@ -5,3 +5,5 @@ echo "$NUMBER"
 echo "HELLO ALL"
 echo "Hai"
 echo "this was run automagically"
+echo "hotfixv0.1"
+

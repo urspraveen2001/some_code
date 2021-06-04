@@ -6,4 +6,5 @@ echo "HELLO ALL"
 echo "Hai"
 echo "this was run automagically"
 echo "branch123"
+echo "hotfixv0.1"
 
